@@ -8,6 +8,6 @@ The study uses the Database of Cross-Linguistic Colexifications (CLICS) and leve
 ### Getting Started
 1. Clone the repository
 2. Launch the notebook
-'''
+```
 jupyter notebook
-'''
+```
